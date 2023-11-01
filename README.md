@@ -1,1 +1,1 @@
-# google-infra-manager-repo
+# Google Cloud Infrastructure Manager
